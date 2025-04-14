@@ -14,7 +14,6 @@
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 <div><br />
-  @felipeAguiarCode
 <!--
 **lair/lair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
